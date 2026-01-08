@@ -9,4 +9,4 @@ const studentPassenger = new StudentPassenger("dan",12345678,2000,"adsh")
 
 
 defultPassenger.ordinaryBuyRegular(airport.Flight.listCard)
-
+studentPassenger.studentBuyvip(airport.Flight.listCard)
