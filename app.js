@@ -8,5 +8,5 @@ const defultPassenger = new ordinaryPassenger("haim",1234,2000,"abcd",false)
 const studentPassenger = new StudentPassenger("dan",12345678,2000,"adsh")
 
 
-
+defultPassenger.ordinaryBuyRegular(airport.Flight.listCard)
 
